@@ -1,0 +1,19 @@
+{
+  "name": "a-i--quiz--plateform",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Quiz Plateform \u2014 frontend (scaffolded by APS)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "typescript": "^5.4.0"
+  }
+}
